@@ -1,4 +1,4 @@
-<h1>**#Basic of Cloud Computing**</hr>
+**#Basic of Cloud Computing**
 
 **What is Cloud?**
 
