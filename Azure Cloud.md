@@ -14,10 +14,7 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 For Example: - Azure Cloud Computing
 
-Public cloud  : - like to use every one access through public internet its most common way of deploying cloud computing
-
-Private cloud : - like to use our business organization are used it’s like hosted by a third-party service provider 
-
-Hybrid cloud  : - like to use every one like public cloud and private cloud by allowing data and application to be shared     
-                   between them.
+Public cloud  : - like to use every one access through public internet its most common way of deploying cloud computing.
+Private cloud : - like to use our business organization are used it’s like hosted by a third-party service provider
+Hybrid cloud  : - like to use every one like public cloud and private cloud by allowing data and application to be shared                       between them.
 
