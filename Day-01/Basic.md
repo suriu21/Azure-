@@ -33,3 +33,15 @@ Who Uses It: A mix of everyone, depending on needs.
 What It's Like: It's like having your private computer space, but sometimes you use the shared internet space too.
 
 Example: A business storing sensitive data in its private space but using the public cloud for extra storage or specific tasks.
+
+
+What types of cloud services are available?
+
+There are three main cloud computing services, Infrastructure-as-a-Service (IaaS), Software-as-a-Service (SaaS) and Platform-as-a-Service (PaaS)
+
+Infrastructure as a Service (IaaS) is the core category of cloud services. IaaS is rented IT infrastructure from a third-party cloud provider. Within your IT infrastructure, you will be able to rent servers, network, storage, virtual machines and more. 
+
+Platform as a Service (PaaS) is a cloud computing service that offers an environment for you to develop, test, deliver and manage your software applications with ease. With PaaS, it has never been easier for developers to create applications without having to worry about the setup of your underlying IaaS, storage, network and databases needed for development. 
+
+Software as a Service (SaaS) is a method for delivering your software applications over the internet. This would be offered as an on–demand service on a subscription basis. Your cloud provider will host and manage the software application and infrastructure. They will also take care of any maintenance e.g. software upgrades or any security patching that’s needed. You can connect to the applications over the Internet via your browser on your PC, phone or tablet. 
+ 
