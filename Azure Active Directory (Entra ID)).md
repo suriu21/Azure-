@@ -1,1 +1,2 @@
-<h1>Entra ID documentation URL </h1>: - <a>https://learn.microsoft.com/en-us/entra/identity/</a>
+<h1>Azure Active Directory as now Entra ID</h1>
+<p>Entra ID documentation URL </p >: - <a>https://learn.microsoft.com/en-us/entra/identity/</a>
