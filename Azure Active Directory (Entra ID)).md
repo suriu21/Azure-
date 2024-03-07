@@ -1,4 +1,4 @@
-<h1><u></u>Azure Active Directory as now Entra ID</h1>u></h1>
+<h1> <u>Azure Active Directory as now Entra ID <u/> </h1>
 
 <b>Microsoft Entra ID:</b> If we want to manage access to the Azure Cloud application and associated resources then we need Microsoft Entra ID. This helps your employees to access external resources, such as Azure services, Azure portal, And other applications.
 
