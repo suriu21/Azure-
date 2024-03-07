@@ -1,8 +1,9 @@
-<h1>Azure Active Directory as now Entra ID</h1>
+<h1><u></u>Azure Active Directory as now Entra ID</h1>u></h1>
 
+<b>Microsoft Entra ID:</b> If we want to manage access to the Azure Cloud application and associated resources then we need Microsoft Entra ID. This helps your employees to access external resources, such as Azure services, Azure portal, And other applications.
 
-<p>Entra ID documentation URL </p > <a> https://learn.microsoft.com/en-us/entra/identity </a>
+Microsoft Entra ID is a Microsoft cloud-based identity and access management service, which helps your employees sign in and access resources in:
 
-Microsoft Entra ID is a cloud-based identity and access management service that enables your employees access external resources
+1) External resources, such as Microsoft Office 365, the Azure portal, and thousands of other SaaS applications.
 
-EX:- office 365, saas application, cloud application, access for azure portal 
+2) Internal resources, such as apps on your corporate network and intranet, along with any cloud apps developed by your own organisation.
